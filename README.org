@@ -4,6 +4,6 @@ Command Line Interface Framework for Functions
 
 |---------+--------------------------------------------|
 | source  | git:https://github.com/djha-skin/cliff.git |
-| commit  | 8095b8c                                    |
+| commit  | 23c8cce                                    |
 | systems | com.djhaskin.cliff                         |
 |---------+--------------------------------------------|
